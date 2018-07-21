@@ -49,7 +49,7 @@ class App extends Component {
     this.setState({
       currentScore: 0,
       topScore: this.state.topScore,
-      rightWrong: "Glaven!",
+      rightWrong: "Dang!",
       clicked: []
     });
     this.handleShuffle();
@@ -57,7 +57,7 @@ class App extends Component {
 
   handleShuffle = () => {
     let shuffledFriends = shuffleFriends(harry);
-    this.setState({ friends: shuffledFriends });
+    this.setState({ harry: shuffledFriends });
   };
 
   render() {
@@ -79,13 +79,13 @@ class App extends Component {
             {this.state.harry.map(friend => (
               <Column size="md-3 sm-6">
                 <FriendCard
-                  key={harry.id}
+                  key={friend.id}
                   handleClick={this.handleClick}
                   handleIncrement={this.handleIncrement}
                   handleReset={this.handleReset}
                   handleShuffle={this.handleShuffle}
                   id={friend.id}
-                  image={harry.image}
+                  image={friend.image}
                 />
               </Column>
             ))}

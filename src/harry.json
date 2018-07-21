@@ -1,62 +1,64 @@
+
+
 [
     {
       "id": 1,
-      "image": "hp1.jpg",
+      "image": "/images/hp1.jpg",
       "clicked": false
     },
     {
       "id": 2,
-      "image": "hp2.jpg",
+      "image": "/images/hp2.jpg",
       "clicked": false
     },
     {
       "id": 3,
-      "image": "hp3.jpg",
+      "image": "/images/hp3.jpg",
       "clicked": false
     },
     {
       "id": 4,
-      "image": "hp4.jpg",
+      "image": "/images/hp4.jpg",
       "clicked": false
     },
     {
       "id": 5,
-      "image": "hp5.jpg",
+      "image": "/images/hp5.jpg",
       "clicked": false
     },
     {
       "id": 6,
-      "image": "hp6.jpg",
+      "image": "/images/hp6.jpg",
       "clicked": false
     },
     {
       "id": 7,
-      "image": "hp7.jpg",
+      "image": "/images/hp7.jpg",
       "clicked": false
     },
     {
       "id": 8,
-      "image": "hp8.jpg",
+      "image": "/images/hp8.jpg",
       "clicked": false
     },
     {
       "id": 9,
-      "image": "hp9.jpg",
+      "image": "/images/hp9.jpg",
       "clicked": false
     },
     {
       "id": 10,
-      "image": "hp10.jpg",
+      "image": "/images/hp10.jpg",
       "clicked": false
     },
     {
       "id": 11,
-      "image": "hp11.jpg",
+      "image": "/images/hp11.jpg",
       "clicked": false
     },
     {
       "id": 12,
-      "image": "hp12.jpg",
+      "image": "/images/hp12.jpg",
       "clicked": false
     }
   ]
