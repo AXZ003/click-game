@@ -1,0 +1,13 @@
+.wrapper {
+    /* background: rgb(175, 175, 175); */
+    background: #C54F4F;
+    /* background-image: url('../../images/hpback.jpg'); */
+    /* background-repeat: no-repeat; */
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    padding-bottom: 50px;
+  }
