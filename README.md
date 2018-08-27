@@ -1,1 +1,1 @@
-# click-game
+# Harry Potter Click Game
