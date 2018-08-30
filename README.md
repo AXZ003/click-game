@@ -10,12 +10,12 @@ INSTRUCTIONS:
 
 The app renders 12 different magical objects from Harry Potter onto the screen.
 
-Each time the user clicks an image, the characters shuffle. The goal is to click a new character each time - without clicking the same one twice.
+Each time the user clicks an image, the magical objects shuffle. The goal is to click a new magical object each time but without clicking the same one twice!
 
+The user's score is tracked in the nav bar. It also keeps track of the highest score since the page has been refreshed. 
 The nav bar at the top keeps track of the user's score.
 
-If you get 12 points, that means you have clicked all 12 characters without clicking the same character more than once, and you've won the game. If you click the same character twice, the score resets. The score in the nav bar also keeps track of the highest score since the page has been refreshed.
-
+If you get 12 points, that means you have clicked all 12 characters without clicking the same character more than once, and you've won the game. If you click the same character twice, the score resets. T
 Technologies Used:
 
 React
