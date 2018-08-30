@@ -1,6 +1,6 @@
 # Harry Potter Memory Click Game
 
-View the completed game on Heroky [here](https://sleepy-tor-76041.herokuapp.com/).
+View the completed game on Heroku [here](https://sleepy-tor-76041.herokuapp.com/).
 
 <img width="1438" alt="screen shot 2018-08-27 at 5 03 23 pm" src="https://user-images.githubusercontent.com/35501766/44688874-3718a100-aa1b-11e8-9717-50670b92ee3a.png">
 
